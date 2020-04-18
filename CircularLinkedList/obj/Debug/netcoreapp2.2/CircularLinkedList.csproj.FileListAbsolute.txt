@@ -1,0 +1,11 @@
+C:\Users\Majd\Source\Repos\CircularLinkedList\CircularLinkedList\bin\Debug\netcoreapp2.2\CircularLinkedList.deps.json
+C:\Users\Majd\Source\Repos\CircularLinkedList\CircularLinkedList\bin\Debug\netcoreapp2.2\CircularLinkedList.runtimeconfig.json
+C:\Users\Majd\Source\Repos\CircularLinkedList\CircularLinkedList\bin\Debug\netcoreapp2.2\CircularLinkedList.runtimeconfig.dev.json
+C:\Users\Majd\Source\Repos\CircularLinkedList\CircularLinkedList\bin\Debug\netcoreapp2.2\CircularLinkedList.dll
+C:\Users\Majd\Source\Repos\CircularLinkedList\CircularLinkedList\bin\Debug\netcoreapp2.2\CircularLinkedList.pdb
+C:\Users\Majd\Source\Repos\CircularLinkedList\CircularLinkedList\obj\Debug\netcoreapp2.2\CircularLinkedList.csprojAssemblyReference.cache
+C:\Users\Majd\Source\Repos\CircularLinkedList\CircularLinkedList\obj\Debug\netcoreapp2.2\CircularLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\Majd\Source\Repos\CircularLinkedList\CircularLinkedList\obj\Debug\netcoreapp2.2\CircularLinkedList.AssemblyInfoInputs.cache
+C:\Users\Majd\Source\Repos\CircularLinkedList\CircularLinkedList\obj\Debug\netcoreapp2.2\CircularLinkedList.AssemblyInfo.cs
+C:\Users\Majd\Source\Repos\CircularLinkedList\CircularLinkedList\obj\Debug\netcoreapp2.2\CircularLinkedList.dll
+C:\Users\Majd\Source\Repos\CircularLinkedList\CircularLinkedList\obj\Debug\netcoreapp2.2\CircularLinkedList.pdb

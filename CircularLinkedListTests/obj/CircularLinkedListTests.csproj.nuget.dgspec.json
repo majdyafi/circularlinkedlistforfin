@@ -1,0 +1,128 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Majd\\Source\\Repos\\CircularLinkedList\\CircularLinkedListTests\\CircularLinkedListTests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Majd\\Source\\Repos\\CircularLinkedList\\CircularLinkedListTests\\CircularLinkedListTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Majd\\Source\\Repos\\CircularLinkedList\\CircularLinkedListTests\\CircularLinkedListTests.csproj",
+        "projectName": "CircularLinkedListTests",
+        "projectPath": "C:\\Users\\Majd\\Source\\Repos\\CircularLinkedList\\CircularLinkedListTests\\CircularLinkedListTests.csproj",
+        "packagesPath": "C:\\Users\\Majd\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Majd\\Source\\Repos\\CircularLinkedList\\CircularLinkedListTests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Majd\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\Majd\\Source\\Repos\\CircularLinkedList\\CircularLinkedList\\CircularLinkedList.csproj": {
+                "projectPath": "C:\\Users\\Majd\\Source\\Repos\\CircularLinkedList\\CircularLinkedList\\CircularLinkedList.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[1.4.0, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[1.4.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.0.1, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\Majd\\Source\\Repos\\CircularLinkedList\\CircularLinkedList\\CircularLinkedList.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Majd\\Source\\Repos\\CircularLinkedList\\CircularLinkedList\\CircularLinkedList.csproj",
+        "projectName": "CircularLinkedList",
+        "projectPath": "C:\\Users\\Majd\\Source\\Repos\\CircularLinkedList\\CircularLinkedList\\CircularLinkedList.csproj",
+        "packagesPath": "C:\\Users\\Majd\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Majd\\Source\\Repos\\CircularLinkedList\\CircularLinkedList\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Majd\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,17 @@
+C:\Users\Majd\Source\Repos\CircularLinkedList\CircularLinkedListTests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Majd\Source\Repos\CircularLinkedList\CircularLinkedListTests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Majd\Source\Repos\CircularLinkedList\CircularLinkedListTests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Majd\Source\Repos\CircularLinkedList\CircularLinkedListTests\bin\Debug\netcoreapp2.2\CircularLinkedListTests.deps.json
+C:\Users\Majd\Source\Repos\CircularLinkedList\CircularLinkedListTests\bin\Debug\netcoreapp2.2\CircularLinkedListTests.runtimeconfig.json
+C:\Users\Majd\Source\Repos\CircularLinkedList\CircularLinkedListTests\bin\Debug\netcoreapp2.2\CircularLinkedListTests.runtimeconfig.dev.json
+C:\Users\Majd\Source\Repos\CircularLinkedList\CircularLinkedListTests\bin\Debug\netcoreapp2.2\CircularLinkedListTests.dll
+C:\Users\Majd\Source\Repos\CircularLinkedList\CircularLinkedListTests\bin\Debug\netcoreapp2.2\CircularLinkedListTests.pdb
+C:\Users\Majd\Source\Repos\CircularLinkedList\CircularLinkedListTests\obj\Debug\netcoreapp2.2\CircularLinkedListTests.csprojAssemblyReference.cache
+C:\Users\Majd\Source\Repos\CircularLinkedList\CircularLinkedListTests\obj\Debug\netcoreapp2.2\CircularLinkedListTests.csproj.CoreCompileInputs.cache
+C:\Users\Majd\Source\Repos\CircularLinkedList\CircularLinkedListTests\obj\Debug\netcoreapp2.2\CircularLinkedListTests.AssemblyInfoInputs.cache
+C:\Users\Majd\Source\Repos\CircularLinkedList\CircularLinkedListTests\obj\Debug\netcoreapp2.2\CircularLinkedListTests.AssemblyInfo.cs
+C:\Users\Majd\Source\Repos\CircularLinkedList\CircularLinkedListTests\obj\Debug\netcoreapp2.2\CircularLinkedListTests.dll
+C:\Users\Majd\Source\Repos\CircularLinkedList\CircularLinkedListTests\obj\Debug\netcoreapp2.2\CircularLinkedListTests.pdb
+C:\Users\Majd\Source\Repos\CircularLinkedList\CircularLinkedListTests\bin\Debug\netcoreapp2.2\CircularLinkedList.dll
+C:\Users\Majd\Source\Repos\CircularLinkedList\CircularLinkedListTests\bin\Debug\netcoreapp2.2\CircularLinkedList.pdb
+C:\Users\Majd\Source\Repos\CircularLinkedList\CircularLinkedListTests\obj\Debug\netcoreapp2.2\CircularLinkedListTests.csproj.CopyComplete
